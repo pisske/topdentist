@@ -1,0 +1,39 @@
+p, li {
+    font-size: medium;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+.title {
+    padding-bottom: 30px;    
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.blue {
+    color: rgb(55, 119, 240);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#links {
+    font-size: smaller;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+#disclaimer {
+    font-size: 1.1rem;
+    padding-top: 120px;
+    text-align: center;
+    line-height: 20px;
+
+}
